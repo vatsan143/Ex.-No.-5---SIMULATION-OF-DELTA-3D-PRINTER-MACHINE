@@ -30,6 +30,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+![Screenshot 2023-11-22 090406](https://github.com/vatsan143/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/147368204/f96f42a5-56a3-4b53-aad2-1274c976b6f6)
+![Screenshot 2023-11-22 090425](https://github.com/vatsan143/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/147368204/c5cafd7b-bea1-450e-9360-f6b080b3fa0d)
 
 ### Name:
 ### Register Number:
